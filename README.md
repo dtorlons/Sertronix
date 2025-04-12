@@ -85,7 +85,7 @@ Feel free to fork, improve, or open an issue! This project is built for nerds, b
 ---
 
 ## 🔗 Related Projects
-
+https://github.com/dtorlons/RetroPrintDeck
 If you're building a GUI or PC interface (e.g., Java frontend), consider linking it here in the future.
 
 ---
