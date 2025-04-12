@@ -24,7 +24,7 @@ It allows you to send characters to a vintage dot-matrix printer using only a se
 
 ---
 
-## ⚙️ Wiring Example
+## ⚙️ Wiring table
 
 | Centronics Pin | Signal Name | Arduino Pin |
 |----------------|-------------|-------------|
@@ -34,7 +34,7 @@ It allows you to send characters to a vintage dot-matrix printer using only a se
 | 2–9            | Data 0–7    | D5–D12      |
 | 18–25          | GND         | GND         |
 
-> 📌 Modify pin assignments in `Lib.h` if needed.
+> 📌 Modify pin assignments in `ESC_P_Data_Sender.h` if needed.
 
 ---
 
