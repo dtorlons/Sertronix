@@ -47,12 +47,6 @@ It allows you to send characters to a vintage dot-matrix printer using only a se
 
 ---
 
-## 📁 File Structure
-serial-to-centronics/ ├── src/ │ ├── main.ino # Entry point │ └── Lib.h # Printer class (data + handshake logic) 
-
-
----
-
 ## 🧪 Example Output
 
 When you send:
